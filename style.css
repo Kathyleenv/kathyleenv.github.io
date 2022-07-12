@@ -17,7 +17,7 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #ffcbcb99;
 }
 
 .right-section {
@@ -42,7 +42,7 @@
 }
 
 .name {
-    color: #D6DBDF;
+    color: #132743DBDF;
     font-size: 20px;
     letter-spacing: 4px;
     text-transform: uppercase;
